@@ -1,7 +1,7 @@
 # Caesar-Cipher
 
-[![Build Status](https://github.com/D-Kumar19/CaesarCipher/actions/workflows/ci.yml/badge.svg)](https://github.com/D-Kumar19/CaesarCipher/actions/workflows/ci-build.yaml)
-[![Coverage Status](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://github.com/D-Kumar19/CaesarCipher/actions/workflows/ci-build.yaml)
+[![Build Status](https://github.com/D-Kumar19/Caesar-Cipher/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/D-Kumar19/Caesar-Cipher/actions/workflows/ci-build.yamls)
+[![Coverage Status](https://img.shields.io/badge/coverage-95%25-brightgreen)](https://github.com/D-Kumar19/Caesar-Cipher/actions/workflows/ci-build.yaml)
 
 A simple implementation of the Caesar Cipher in Java, including encryption, decryption, and unit tests.
 
