@@ -7,5 +7,8 @@ public class Main {
         CaesarCipher caesarCipher = new CaesarCipher();
         String ciphered = caesarCipher.cipher("How are you doing today", 12);
         System.out.println(ciphered);
+
+        String deciphered = caesarCipher.decipher(ciphered, 12);
+        System.out.println(deciphered);
     }
 }
